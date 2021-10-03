@@ -1,2 +1,2 @@
 streamlit
-streamlit_webrtc==0.6.3
+playsound
