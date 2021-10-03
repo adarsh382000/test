@@ -1,4 +1,2 @@
-import streamlit as st
-from streamlit_webrtc import webrtc_streamer
-
-webrtc_streamer(key="example")
+from playsound import playsound
+playsound('yt1s.com - Hello Hi Meme Sound Effect.mp3')
